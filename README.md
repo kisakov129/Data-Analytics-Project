@@ -8,6 +8,8 @@ I extracted the data using the Discrub Chrome extension. The goal was to explore
 
 I also used Flourish to make a racing bar chart showing cumulative messages over the dataset's date range.
 
+> **One more note:** In the bigram and trigram word cloud, there were a lot of fluff words that I did not bother to remove, so the output may just include some junk. These are technically the most said three word phrases, but that doesn't account for "What is a word?" or people spamming nonsense. It also does not include things like links having their punctuation removed.
+
 ## Tools
 
 The analysis scripts use Python with pandas, WordCloud, matplotlib, and scikit-learn. The racing bar chart was made with Flourish. The repository includes processed data and generated images, so you can view the word clouds without running the scripts.
