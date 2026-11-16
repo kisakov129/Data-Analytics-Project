@@ -34,7 +34,7 @@ The generated images are in [`word_clouds/`](word_clouds/):
 
 ## And who were those chatters?
 
-https://github.com/user-attachments/assets/e5f7c761-2c49-46e8-b4fb-75e5e33c809a
+[https://github.com/user-attachments/assets/e5f7c761-2c49-46e8-b4fb-75e5e33c809a](https://github.com/user-attachments/assets/e9528059-a2c8-439f-abee-b9c3086007d4)
 
 ## How it works
 
